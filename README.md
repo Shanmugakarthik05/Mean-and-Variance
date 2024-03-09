@@ -73,7 +73,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output : 
-image
+![image](https://github.com/Shanmugakarthik05/Mean-and-Variance/assets/149762972/82f64756-0aa3-46e4-8f1b-fe38183db4ce)
+
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
